@@ -49,7 +49,7 @@ Feel free to submit issues or pull requests to improve functionality!
 ## Disclaimer
 This project is intended for artistic and educational purposes. Ensure you have the right to use the images you process.
 
-## This is a sample image.
+## This is a sample image. (PLEASE VIEW IN LIGHT MODE)
 <img src="https://github.com/roshaanmehar/ASCII-Art/blob/main/ascii_art.png" alt="sample ascii art" height="300">
 
 ## This is how it should look like in text:
