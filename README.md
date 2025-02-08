@@ -41,7 +41,7 @@ Modify the script to adjust:
 - **Font & Size**: Set `font_path` and `font_size` when saving as PNG.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
 
 ## Contribution
 Feel free to submit issues or pull requests to improve functionality!
