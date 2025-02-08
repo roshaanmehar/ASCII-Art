@@ -23,14 +23,14 @@ Ensure you have Python installed along with the required dependencies:
 ### Convert Image to ASCII
 Run the script by providing an image path:
 ```sh
-python ascii_converter.py
+python pillowimageasciart.py
 ```
 This will generate ASCII art and save it as `ascii_art.txt`.
 
 ### Save ASCII Art as PNG
 To convert the ASCII output into a transparent PNG:
 ```sh
-python ascii_converter.py
+python pillowimageasciart.py
 ```
 This will save the result as `ascii_art.png`.
 
